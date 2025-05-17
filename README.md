@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on crafting a new intergalactic communication device that can transmit messages instantly across the multiverse.
-- 🌱 I’m currently learning about the latest advancements in quantum entanglement to enhance space-time navigation.
-- 👯 I’m looking to collaborate on projects that focus on uniting diverse species and cultures across galaxies.
-- 🤔 I’m looking for help with integrating cosmic energy sources into my latest inventions.
-- 💬 Ask me about my cosmic explorations and the entities I've created to foster multiversal unity.
-- 📫 How to reach me: wotorimovako@gmail.com
-- ⚡ Fun fact: I once built a ship from the remnants of a supernova, and it plays the melody of pulsars as it travels.
+I'm Wotori, an engineer and innovator exploring blockchain, virtual worlds, and collaborative creativity. My passion is building interactive platforms and protocols that could form the foundation of a true metaverse—akin to "GitHub for creativity" and inspired by concepts from *Ready Player One*.
 
-If we're being serious, I've been involved with the metaverse long before it became mainstream, focusing my attention on collaboration and interaction protocols—like a GitHub for creativity. I believe this could become the core of the true metaverse we saw in the movie and book "Ready Player One." Here's a [brief overview](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf) of what drives me forward, even though I'm not exactly sure where it will lead.
+Currently, I'm developing [Ekza Avatars](https://avatar.ekza.io) (live on devnet), allowing users to mint personalized Web3 Avatar NFTs.
 
-Project [overview](https://youtu.be/AVUVf9qm_Rc)
+- 🌱 Exploring decentralized platforms and interactive experiences.  
+- 👯 Open to collaboration on metaverse and blockchain-based creative projects.  
+- 💬 Reach out about blockchain, virtual worlds, or collaboration ideas.
+
+📫 **Contact:** [wotorimovako@gmail.com](mailto:wotorimovako@gmail.com)  
+
+🎥 [Project overview video](https://youtu.be/AVUVf9qm_Rc) • 📄 [Vision Overview (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
