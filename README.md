@@ -1,13 +1,12 @@
-## Hi there 👋
+# Welcome. I'm Wotori.
+*Building the foundation for collaborative virtual worlds.*
 
-I'm Wotori, an engineer and innovator exploring blockchain, virtual worlds, and collaborative creativity. My passion is building interactive platforms and protocols that could form the foundation of a true metaverse—akin to "GitHub for creativity" and inspired by concepts from *Ready Player One*.
+As an engineer and builder in the Web3 space, my work centers on visual communication, interactive experiences, and web3 protocols. I am driven by the vision of creating a "GitHub for creativity"—an open ecosystem where users can seamlessly build, share, and scale digital experiences.
 
-Currently, I'm developing [Ekza Avatars](https://avatar.ekza.io) (live on devnet), allowing users to mint personalized Web3 Avatar NFTs.
+**Current Focus:** Developing **[Ekza Avatars](https://avatar.ekza.io)** (currently live on devnet): A protocol allowing users to generate and mint personalized Web3 Avatar NFTs.
 
-- 🌱 Exploring decentralized platforms and interactive experiences.  
-- 👯 Open to collaboration on metaverse and blockchain-based creative projects.  
-- 💬 Reach out about blockchain, virtual worlds, or collaboration ideas.
+**Let's Connect** I am always open to collaborating on metaverse infrastructure, blockchain-based creative tools, or simply exchanging ideas about the future of virtual worlds. Feel free to reach out.
 
-📫 **Contact:** [wotorimovako@gmail.com](mailto:wotorimovako@gmail.com)  
+✉️ **[wotorimovako@gmail.com](mailto:wotorimovako@gmail.com)**
 
-🎥 [Project overview video](https://youtu.be/AVUVf9qm_Rc) • 📄 [Vision Overview (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
+🔗 **Links:** [Project Video](https://youtu.be/AVUVf9qm_Rc) | [Vision Manifesto (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
