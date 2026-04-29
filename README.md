@@ -1,12 +1,29 @@
-# Welcome. I'm Wotori.
-*Building the foundation for collaborative virtual worlds.*
+# Wotori | Builder @ Ekza Space
 
-As an engineer and builder in the Web3 space, my work centers on visual communication, interactive experiences, and web3 protocols. I am driven by the vision of creating a "GitHub for creativity"—an open ecosystem where users can seamlessly build, share, and scale digital experiences.
+I build tools for 3D creators and Web3 identity. Currently focused on **Ekza**, an ecosystem for interoperable virtual assets and creator-owned economy.
 
-**Current Focus:** Developing **[Ekza Avatars](https://avatar.ekza.io)** (currently live on devnet): A protocol allowing users to generate and mint personalized Web3 Avatar NFTs.
+### Current Project: Ekza (ekza.io)
+Developing a protocol for 3D avatars and digital assets that stay with the user across platforms.
+* **Ekza Avatars:** 3D avatar generation and minting (Live on Solana Devnet).
+* **Asset Pipeline:** Tools for 3D artists to publish and monetize assets using blockchain metadata.
+* **Integration:** SDKs for bringing Web3 identities into WebGL and game engines.
 
-**Let's Connect** I am always open to collaborating on metaverse infrastructure, blockchain-based creative tools, or simply exchanging ideas about the future of virtual worlds. Feel free to reach out.
+### Tech Stack
+* **Languages/Tools:** Rust (Anchor), JavaScript/TypeScript.
+* **Web3:** Solana, IPFS.
+* **3D:** Three.js, WebGL, GLTF optimization.
 
-✉️ **[wotorimovako@gmail.com](mailto:wotorimovako@gmail.com)**
+### Background
+* Focused on visual communication and interactive web experiences.
+* Winner of Web3 hackathons (Cosmos, Archway).
+* Building at the intersection of 3D graphics and decentralized protocols.
 
-🔗 **Links:** [Project Video](https://youtu.be/AVUVf9qm_Rc) | [Vision Manifesto (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
+---
+
+### Links
+* **Main Site:** [ekza.io](https://ekza.io)
+* **Manifesto:** [Project Overview (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
+* **Video:** [System Demo](https://youtu.be/AVUVf9qm_Rc)
+
+### Contact
+* **Email:** wotorimovako@gmail.com
