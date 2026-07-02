@@ -1,29 +1,17 @@
-# Wotori | Builder @ Ekza Space
+# Wotori · Creative Technologist
 
-I build tools for 3D creators and Web3 identity. Currently focused on **Ekza**, an ecosystem for interoperable virtual assets and creator-owned economy.
+I build **expressive digital worlds** at the intersection of web3, real-time 3D, and decentralized identity.
+AI-augmented workflow – I design the systems and ship fast, agents do the heavy lifting. Vibe-coding, but the architecture is mine.
 
-### Current Project: Ekza (ekza.io)
-Developing a protocol for 3D avatars and digital assets that stay with the user across platforms.
-* **Ekza Avatars:** 3D avatar generation and minting (Live on Solana Devnet).
-* **Asset Pipeline:** Tools for 3D artists to publish and monetize assets using blockchain metadata.
-* **Integration:** SDKs for bringing Web3 identities into WebGL and game engines.
+Currently building **[Ekza](https://ekza.io)** — a protocol for 3D avatars & digital assets that follow the user across platforms.
 
-### Tech Stack
-* **Languages/Tools:** Rust (Anchor), JavaScript/TypeScript.
-* **Web3:** Solana, IPFS.
-* **3D:** Three.js, WebGL, GLTF optimization.
+### 🛠 Stack
+`Rust (Anchor)` · `TypeScript` · `Next.js` · `Three.js / WebGL` · `Solana` · `IPFS`
+Real-time 3D, on-chain assets, agentic workflows daily.
 
-### Background
-* Focused on visual communication and interactive web experiences.
-* Winner of Web3 hackathons (Cosmos, Archway).
-* Building at the intersection of 3D graphics and decentralized protocols.
+### ⚡ Selected
+- **Ekza** — 3D avatar generation & minting, asset pipeline for artists, Web3→WebGL SDKs
+- **Dream-Writer** — Zettelkasten app for immutable snapshots of thought
+- 🏆 Web3 hackathon winner (Cosmos, Archway, Mina)
 
----
-
-### Links
-* **Main Site:** [ekza.io](https://ekza.io)
-* **Manifesto:** [Project Overview (PDF)](https://wotori.io/ppt/lp-wotori-studio_v0.5.pdf)
-* **Video:** [System Demo](https://youtu.be/AVUVf9qm_Rc)
-
-### Contact
-* **Email:** wotorimovako@gmail.com
+### 📫 [wotori.io](https://wotori.io) · [ekza.io](https://ekza.io) · wotorimovako@gmail.com
