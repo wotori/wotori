@@ -1,8 +1,11 @@
 # Wotori · Creative Technologist
 
-I build **expressive digital worlds** at the intersection of web3, real-time 3D, and decentralized identity.
-AI-augmented workflow – I design the systems and ship fast, agents do the heavy lifting. Vibe-coding, but the architecture is mine.
+Building the infrastructure for **creator-owned virtual worlds**.
 
-Currently building **[Ekza](https://ekza.io)** – a protocol for 3D avatars & digital assets that follow the user across platforms.
+I work where web3 ownership, real-time 3D, and portable identity collide – turning protocols, avatars, spaces, and interfaces into digital worlds people remember.
+
+Currently building **[Ekza](https://ekza.io)**: a Solana-native layer for 3D assets, avatars, and virtual spaces that can move across games and platforms.
+
+AI-augmented workflow. Vibe-coding speed, architect-level control.
 
 ### 📫 [wotori.io](https://wotori.io) · [ekza.io](https://ekza.io) · wotorimovako@gmail.com
